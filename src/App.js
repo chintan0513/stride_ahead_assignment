@@ -4,7 +4,7 @@ import List from './components/List';
 const App = () => {
   return(
     <div className="app">
-        <h1>My App</h1>
+        <h1>Lazy Loading</h1>
         <List />
     </div>
   )

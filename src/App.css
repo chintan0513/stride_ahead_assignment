@@ -7,10 +7,3 @@
   background: #282c34;
   color: white;
 }
-
-.list {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
